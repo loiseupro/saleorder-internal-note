@@ -1,0 +1,49 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* saleorder_internal_note
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-06-25 15:58+0000\n"
+"PO-Revision-Date: 2021-06-25 18:00+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"Language: es\n"
+"X-Generator: Poedit 2.2.4\n"
+
+#. module: saleorder_internal_note
+#: model:ir.model.fields,field_description:saleorder_internal_note.field_sale_order__display_name
+msgid "Display Name"
+msgstr "Nombre mostrado"
+
+#. module: saleorder_internal_note
+#: model:ir.model.fields,field_description:saleorder_internal_note.field_sale_order__id
+msgid "ID"
+msgstr ""
+
+#. module: saleorder_internal_note
+#: model:ir.model.fields,field_description:saleorder_internal_note.field_sale_order__saleorder_internal_note
+#: model_terms:ir.ui.view,arch_db:saleorder_internal_note.saleorder_internal_note_template_form_view
+msgid "Internal note"
+msgstr "Nota interna"
+
+#. module: saleorder_internal_note
+#: model:ir.model.fields,field_description:saleorder_internal_note.field_sale_order____last_update
+msgid "Last Modified on"
+msgstr "Última modificación el"
+
+#. module: saleorder_internal_note
+#: model_terms:ir.ui.view,arch_db:saleorder_internal_note.saleorder_internal_note_template_form_view
+msgid "Sale order"
+msgstr "Venta"
+
+#. module: saleorder_internal_note
+#: model:ir.model,name:saleorder_internal_note.model_sale_order
+msgid "Sales Order"
+msgstr "Pedidos de venta"
